@@ -7,22 +7,22 @@ Es una pagina web realizada en el plazo de dos semanas, en el marco del Coding B
 Siendo un e-commerce de reventa de café basado en los productos que ofrece la cadena de comercio Café Martínez. 
 
 ## :name_badge: Must Have:
-<li>Ingreso, registro y cierre de sesión del usuario</li>
-<li>Cuenta de Administrador de la web para cargar nuevos productos y asignar administradores</li>
-<li>Persistencia del la sesión del usuario logueado</li>
+<li>Ingreso, registro y cierre de sesión del usuario.</li>
+<li>Cuenta de Administrador de la web para cargar nuevos productos y asignar administradores.</li>
+<li>Persistencia del la sesión del usuario logueado.</li>
 
-## :yellow_square: Should Have:
-<li>Grilla de productos</li>
-<li>Vista individual de cada producto</li>
-<li>Buscar productos por nombre o categoría</li>
-<li>Agregar productos al carrito</li>
-<li>En la sección carrito, eliminar o agregar más produtos</li>
-<li>Finalizar la compra</li>
+## :blue_square: Should Have:
+<li>Grilla de productos.</li>
+<li>Vista individual de cada producto.</li>
+<li>Buscar productos por nombre o categoría.</li>
+<li>Agregar productos al carrito.</li>
+<li>En la sección carrito, eliminar o agregar más produtos.</li>
+<li>Finalizar la compra.</li>
 
 ## :green_square: Nice to Have:
-<li>Recibir un e-mail con el detalle de la compra realizada</li> 
-<li>Acceder a su historial de compra</li> 
-<li>Full responsive</li>
+<li>Recibir un e-mail con el detalle de la compra realizada.</li> 
+<li>Acceder a su historial de compra.</li> 
+<li>Full responsive.</li>
 
 ## :heavy_check_mark: Achievements:
 
@@ -32,7 +32,12 @@ Dasarrollé las vistas del Home, Login, Register y Shopping, alcanzando que el c
 
 
 ## Team Developers:
-@
+
+<li><a href='https://www.linkedin.com/in/arielferencak/'></a></li>
+<li><a href='https://www.linkedin.com/in/nicolasgerardim/'></a></li>
+<li><a href='https://www.linkedin.com/in/maxi-rios93/'></a></li>
+<li><a href='https://www.linkedin.com/in/fabricio-rossi/'></a></li>
+<li>Sabrina Demetrio</li>
 
 ## Technologys:
 
