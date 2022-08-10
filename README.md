@@ -6,12 +6,12 @@ Es una pagina web realizada en el plazo de dos semanas, en el marco del Coding B
 
 Siendo un e-commerce de reventa de café basado en los productos que ofrece la cadena de comercio Café Martínez. 
 
-## closed_book  Must Have:
+## :name_badge: Must Have:
 <li>Ingreso, registro y cierre de sesión del usuario</li>
 <li>Cuenta de Administrador de la web para cargar nuevos productos y asignar administradores</li>
 <li>Persistencia del la sesión del usuario logueado</li>
 
-## blue_book Should Have:
+## :yellow_square: Should Have:
 <li>Grilla de productos</li>
 <li>Vista individual de cada producto</li>
 <li>Buscar productos por nombre o categoría</li>
@@ -19,12 +19,12 @@ Siendo un e-commerce de reventa de café basado en los productos que ofrece la c
 <li>En la sección carrito, eliminar o agregar más produtos</li>
 <li>Finalizar la compra</li>
 
-## image.png Nice to Have:
+## :green_square: Nice to Have:
 <li>Recibir un e-mail con el detalle de la compra realizada</li> 
 <li>Acceder a su historial de compra</li> 
 <li>Full responsive</li>
 
-## Achievements:
+## :heavy_check_mark: Achievements:
 
 Desempeñe en tareas tanto de back - end y front - end. 
 Logre la persistencia de la sesión, registro y logueo de usuario. 
@@ -32,7 +32,7 @@ Dasarrollé las vistas del Home, Login, Register y Shopping, alcanzando que el c
 
 
 ## Team Developers:
-
+@
 
 ## Technologys:
 
