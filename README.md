@@ -33,7 +33,7 @@ Dasarrollé las vistas del Home, Login, Register y Shopping, alcanzando que el c
 
 ## Team Developers:
 
-<li><a href='https://www.linkedin.com/in/arielferencak/'></a></li>
+<li><a [href='https://www.linkedin.com/in/arielferencak/']></a></li>
 <li><a href='https://www.linkedin.com/in/nicolasgerardim/'></a></li>
 <li><a href='https://www.linkedin.com/in/maxi-rios93/'></a></li>
 <li><a href='https://www.linkedin.com/in/fabricio-rossi/'></a></li>
