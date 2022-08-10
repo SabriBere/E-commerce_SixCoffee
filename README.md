@@ -27,7 +27,7 @@ Siendo un e-commerce de reventa de café basado en los productos que ofrece la c
 ## :heavy_check_mark: Achievements:
 <li>Desempeñe en tareas tanto de back - end y front - end. </li>
 <li>Logre la persistencia de la sesión, registro y logueo de usuario.</li>
-<li>Dasarrollé las vistas del Home, Login, Register y Shopping, alcanzando que el cliente obtenga una experiencia satisfactoria al seleccionar <br/> los productos, finalizar su compra y acceder al historial de estas.</li>
+<li>Dasarrollé las vistas del Home, Login, Register y Shopping, alcanzando que el cliente obtenga una experiencia satisfactoria al seleccionar los productos, finalizar su compra y acceder al historial de estas.</li>
 
 ## :dolls: Team Developers:
 
