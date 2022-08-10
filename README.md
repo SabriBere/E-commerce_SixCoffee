@@ -33,8 +33,8 @@ Dasarrollé las vistas del Home, Login, Register y Shopping, alcanzando que el c
 
 ## Team Developers:
 
+[Ariel Ferencak](https://www.linkedin.com/in/arielferencak/),
 [Nicolas Gerardi](https://www.linkedin.com/in/nicolasgerardim/),
-[Ariel Ferencak](href='https://www.linkedin.com/in/arielferencak/),
 [Maxi Rios](https://www.linkedin.com/in/maxi-rios93/),
 [Fabricio Rossi](https://www.linkedin.com/in/fabricio-rossi/),
 Sabrina Demetrio
