@@ -31,7 +31,7 @@ Logre la persistencia de la sesión, registro y logueo de usuario.
 Dasarrollé las vistas del Home, Login, Register y Shopping, alcanzando que el cliente obtenga una experiencia satisfactoria al seleccionar los productos, finalizar su compra y acceder al historial de estas. 
 
 
-## Team Developers:
+## :dolls: Team Developers:
 
 [Ariel Ferencak](https://www.linkedin.com/in/arielferencak/),
 [Nicolas Gerardi](https://www.linkedin.com/in/nicolasgerardim/),
@@ -39,7 +39,7 @@ Dasarrollé las vistas del Home, Login, Register y Shopping, alcanzando que el c
 [Fabricio Rossi](https://www.linkedin.com/in/fabricio-rossi/),
 Sabrina Demetrio
 
-## Technologys:
+## :hammer_and_wrench: Technologys:
 
 |![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|
 |-------- |--------|--------|
